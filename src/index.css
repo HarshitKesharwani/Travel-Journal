@@ -1,0 +1,170 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.head1
+{
+  position: absolute;
+width: 100%;
+height: 70px;
+left: 0px;
+top: 0px;
+
+background: #F55A5A;
+}
+.img1
+{
+  width: 40px;
+  margin-left: 16.6cm;
+  margin-top: .5cm;
+}
+.text1
+{
+  position: absolute;
+width: 109px;
+height: 16px;
+left: 18cm;
+margin-top:-.8cm;
+
+font-family: 'Alumni Sans Collegiate One', sans-serif;
+font-family: 'Rubik Distressed', cursive;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 18px;
+letter-spacing: -0.075em;
+
+color: #FFFFFF;
+
+}
+.img2
+{
+  position: absolute;
+width: 125px;
+height: 168px;
+left: 40px;
+top: 100px;
+
+
+border-radius: 5px;
+}
+.sec
+{
+  position: absolute;
+width: 326px;
+height: 40px;
+left: 184px;
+top: 136px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+
+color: #2B283A;
+}
+.img
+{
+  width: 500px;
+  margin-left:2cm;
+  margin-top: 4.5cm;
+  padding: 0px;
+  border-radius: 5px;
+  margin-bottom: 0cm;
+  float:inline-start;
+}
+.img:hover{
+  border: #2B283A ;
+}
+
+.div2
+{
+  margin-left: 8cm;
+ margin-top: -12cm;
+}
+.para
+{
+  position: absolute;
+  margin-top: -7cm;
+  
+
+
+
+}
+
+.loc
+{
+  
+width: 40px;
+margin-left:0cm;
+margin-top:1px;
+
+  
+  
+}
+.place
+{
+  position: absolute;
+  margin-left: 3.2cm;
+  margin-top: 0.2cm;
+}
+.cont
+{
+  float: left;
+}
+.name
+{
+  margin-left:0cm;
+  margin-top:0cm;
+  font-family: 'Alumni Sans Collegiate One', sans-serif;
+font-family: 'Rubik Distressed', cursive;
+
+}
+.cont2
+{
+  margin-top: -12cm;
+}
+.container
+{
+  margin-left: .6cm;
+  margin-top: 1cm;
+}
+.para{
+  margin-top: 0cm;
+  font-size: 19px;
+  font-family: 'Alumni Sans Collegiate One', sans-serif;
+font-family: 'Indie Flower', cursive;
+
+}
+.city
+{
+  margin-left: 1.2cm;
+  margin-top: -.8cm;
+  font-family: 'Alumni Sans Collegiate One', sans-serif;
+font-family: 'Rubik Distressed', cursive;
+}
+.img-fluid
+{
+  border-radius: 6px;
+}
+.container{
+  margin-top:4cm;
+  margin-bottom: .8cm;
+}
+.head{
+text-align: center;
+margin-top: 1cm;
+font-family: 'Alumni Sans Collegiate One', sans-serif;
+font-family: 'Rubik Distressed', cursive;
+}
