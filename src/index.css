@@ -14,7 +14,7 @@ code {
 .head1
 {
   position: absolute;
-width: 100%;
+width: 110%;
 height: 70px;
 left: 0px;
 top: 0px;
@@ -167,4 +167,34 @@ text-align: center;
 margin-top: 1cm;
 font-family: 'Alumni Sans Collegiate One', sans-serif;
 font-family: 'Rubik Distressed', cursive;
+}
+@media screen and (max-width: 480px) {
+   
+    .img1{
+
+  width: 40px;
+  margin-left: 3.2cm;
+  margin-top: .5cm;
+    }
+    .text1
+    {
+      position: absolute;
+    width: 109px;
+    height: 16px;
+    left: 4.5cm;
+    margin-top:-.8cm;
+    
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+    font-family: 'Rubik Distressed', cursive;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 18px;
+    letter-spacing: -0.075em;
+    
+    color: #FFFFFF;
+    
+    }
+  
 }
