@@ -4,7 +4,7 @@ export default function Journey(props)
     return(
         
             <div className="container">
-            <div className="row">
+            <div className="row row-content">
                 <div className="col-12 col-sm-3"><img  className="img-fluid"src={props.img}/></div>
         
         
